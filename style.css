@@ -539,7 +539,7 @@ body {
 /* crew */
 .crew {
   background-image: url(./assets/crew/background-crew-mobile.jpg);
-  overflow-y: hidden;
+  
 }
 
 @media (min-width: 35rem) {
